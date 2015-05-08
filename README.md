@@ -2,7 +2,7 @@
 ### SharePoint Developer
 ### RXP Services
 * kenny.soetjipto@rxpservices.com 
-### Description ###
+### Description
 This repository contains scripts to automate SharePoint online administration
 
 ### Quick summary ###
