@@ -11,12 +11,13 @@ It is used to automate SP online administration and tasks are made into function
 Therefore, each function can be invoked using for or foreach loop
 * Version: 0.1
 
-### How do I get set up? ###
+### Setup ###
 
 * Summary of set up
 It needs to have Powershell online
 You must be assigned as "global administrator" role on the SharePoint Online site on which you are running the Windows PowerShell cmdlet.
 Add ISAPI folder which contain DLLs needed
+Change include file at the top at the right folder
 
 * Configuration
 - Put ISAPI folders in the C:\program files\common files\Microsoft Shared\Web Server Extension\15\
